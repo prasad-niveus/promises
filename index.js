@@ -1,4 +1,4 @@
-
+// created a promise which returns a message
 
 const myPromise = () => {
     return new Promise((resolve, reject) => {
